@@ -20,3 +20,39 @@ ADA, as a voice AI system based on knowledge representation and reasoning techno
 In terms of computing resources, Oureyes can be powered by a Raspberry Pi, which provides sufficient processing power for most tasks. However, for more computationally intensive operations or when additional processing capabilities are required, the intelligent eyewear can seamlessly transfer the computations to the developer's computer, equipped with advanced hardware such as the M2 Max chip. This allows for more complex analyses and computations to be performed, ensuring optimal performance and functionality.
 
 Overall, Oureyes offers significant benefits to individuals with disabilities, providing them with enhanced convenience and assistance to better navigate their daily lives. The combination of Raspberry Pi and the developer's computer ensures a balance between portability and computational power, allowing for a versatile and efficient user experience.
+
+## License
+
+The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
+
+## Getting Started
+
+To begin working with the MakeCode project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   `
+   git clone https://github.com/Carson-We/Operating-System.git
+   `
+
+2. Install any necessary dependencies as outlined in the project's documentation.
+
+3. Explore the directory.
+
+4. Execute the scripts to run the operating system project on your own examples.
+
+## Contribution Guidelines
+
+Contributions to this operating system project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
+
+- Fork the repository and create a new branch for your contributions.
+- Make your changes and thoroughly test them.
+- Submit a pull request describing the modifications and the rationale behind them.
+
+By contributing to this project, you agree to license your contributions under the terms of the Mozilla Public License Version 2.0.
+
+## Contact Information
+
+If you have any questions or suggestions regarding this operating system project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
+
+Thank you for your interest and contributions to the project!
