@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is considered deprecated and abandoned. It may not be actively maintained or updated. Please use it with caution and consider alternative solutions for your needs.
+
 # EyesOS
 
 # Project Goals
@@ -17,34 +20,3 @@ ADA, as a voice AI system based on knowledge representation and reasoning techno
 In terms of computing resources, Oureyes can be powered by a Raspberry Pi, which provides sufficient processing power for most tasks. However, for more computationally intensive operations or when additional processing capabilities are required, the intelligent eyewear can seamlessly transfer the computations to the developer's computer, equipped with advanced hardware such as the M2 Max chip. This allows for more complex analyses and computations to be performed, ensuring optimal performance and functionality.
 
 Overall, Oureyes offers significant benefits to individuals with disabilities, providing them with enhanced convenience and assistance to better navigate their daily lives. The combination of Raspberry Pi and the developer's computer ensures a balance between portability and computational power, allowing for a versatile and efficient user experience.
-
-# Installation Guide
-
-To install the Lane-Keeping and Obstacle-Avoidance System, follow these steps:
-
-1. Clone the project repository from GitHub:
-git clone https://github.com/Carson-We/EyesOS.git
-
-# Contribution Guidelines
-
-We welcome contributions to the Oureyes project. If you would like to contribute, please adhere to the following guidelines:
-
-1. Fork the project repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request, providing a clear explanation of your contribution and its purpose.
-
-# Version
-v0.2.0.1 (0201070224a)
-
-# Author and Contact Information
-
-Authors: Carson
-
-For any inquiries or feedback regarding the project, feel free to contact us:
-
-- Carson
-  - Email: carson.developer1125@gmail.com
-
-We appreciate your interest and support in enhancing the Autopilot system to achieve greater reliability and accuracy in lane-keeping and obstacle-avoidance tasks.
