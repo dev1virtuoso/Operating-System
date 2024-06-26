@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is considered deprecated and abandoned. It may not be actively maintained or updated. Please use it with caution and consider alternative solutions for your needs.
+
 # EvoOS
 
 EvoOS is a lightweight operating system designed for testing purposes. It aims to explore the concept of desktop system simplification, making the operating system less complex. Additionally, EvoOS can be used as an educational tool to learn about operating system development.
@@ -27,13 +30,3 @@ These instructions will help you get a copy of EvoOS up and running on your loca
 3. Create a bootable disk image using the built EvoOS kernel.
 
 4. Run the EvoOS image in an x86 emulator or boot it on a physical machine.
-
-## Contributing
-
-Thank you for considering contributing to EvoOS! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MPL-2.0 license](LICENSE).
-
-## Acknowledgments
