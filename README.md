@@ -8,7 +8,7 @@ The code in this repository is released under the [Mozilla Public License Versio
 
 ## Getting Started
 
-To begin working with the MakeCode project, follow these steps:
+To begin working with the operating system project, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -18,7 +18,7 @@ To begin working with the MakeCode project, follow these steps:
 
 2. Install any necessary dependencies as outlined in the project's documentation.
 
-3. Explore the directory, which contains the implementation of various machine learning algorithms and techniques.
+3. Explore the directory, which contains the implementation of various operating system techniques.
 
 4. Execute the scripts to run the operating system project on your own examples.
 
