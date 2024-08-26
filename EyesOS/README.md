@@ -3,7 +3,7 @@
 
 # EyesOS
 
-# Project Goals
+## Project Goals
 
 The goal of the Oureyes project is to provide enhanced convenience and assistance to individuals with disabilities. The intelligent eyewear, Oureyes, utilizes the M2 Max chip and features two cameras (alpha Camera and beta Camera) and an ultrasonic rangefinder, enabling stereoscopic vision and depth perception. Additionally, it includes a speaker for audio output and supports Bluetooth connectivity for data transfer and control with other devices.
 
@@ -23,7 +23,7 @@ Overall, Oureyes offers significant benefits to individuals with disabilities, p
 
 ## License
 
-The code in this repository is released under the [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/), an open-source license that governs the usage, modification, and distribution of the code. The license provides rights and responsibilities for users and contributors, ensuring the project remains accessible and transparent.
+This repository is licensed under the Carson Open Source License, which provides users and contributors with the freedom to copy, modify, distribute, and sublicense the software under certain conditions. The project is governed by the Mozilla Public License Version 2.0 in addition to the terms outlined in this license.
 
 ## Getting Started
 

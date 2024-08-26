@@ -32,7 +32,9 @@ These instructions will help you get a copy of Project Alexander up and running 
 Thank you for considering contributing to Project Alexander! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
 
 ## License
+
 This project is licensed under the [MPL-2.0 license](LICENSE).
 
 ## Acknowledgments
+
 Kernel: [Linux](https://github.com/torvalds/linux)
