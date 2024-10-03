@@ -19,7 +19,7 @@ These instructions will help you get a copy of Project Alexander up and running 
 
 ### Installation
 
-1. Clone the repository to your local machine: 'git clone https://github.com/Carson-We/EvoOS.git'
+1. Clone the repository to your local machine: 'git clone https://github.com/dev1virtuoso/EvoOS.git'
 
 2. Build the Project Alexander source code using the provided build scripts or makefile.
 
