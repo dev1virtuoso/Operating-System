@@ -1,0 +1,3 @@
+[submodule "Project Alexander/kernel/linux"]
+	path = Project Alexander/kernel/linux
+	url = https://github.com/torvalds/linux
